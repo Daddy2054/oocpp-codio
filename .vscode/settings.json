@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "files.associations": {
+        "*.tmpl": "html",
+        "*.kt": "kotlin",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
